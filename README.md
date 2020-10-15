@@ -13,10 +13,10 @@
 
 #### Colors
 
-1. $very-dark-grayish-blue: 
-2. $desaturated-dark-blue:
-3. $grayish-blue:
-4. $light-grayish-blue:
+1. $very-dark-grayish-blue: hsl(217, 19%, 35%) 
+2. $desaturated-dark-blue: hsl(214, 17%, 51%)
+3. $grayish-blue: hsl(212, 23%, 69%)
+4. $light-grayish-blue: hsl(210, 46%, 95%)
 
 ---
 
